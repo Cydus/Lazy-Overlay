@@ -6,8 +6,8 @@ This software is for SteamVR and overlays various masks in front of each eye for
 
 It is intended to be useful in exploring vision conditions such as Amblyopia, aka "Lazy Eye" by creating conditions that force the deficient eye to engage and "work harder".
 
-![Slats view](/Screenshots/slats.png?raw=true "Slats view")
-![User Interface](/Screenshots/ui.png?raw=true "User Interface")
+![Slats view](/Screenshots/slats.PNG?raw=true "Slats view")
+![User Interface](/Screenshots/ui.PNG?raw=true "User Interface")
 
 [Talk to the devs on discord](https://discord.gg/esCMDu)
 
