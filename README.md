@@ -11,6 +11,10 @@ It is intended to be useful in exploring vision conditions such as Amblyopia, ak
 
 [Talk to the devs on discord](https://discord.gg/esCMDu)
 
+USAGE
+=====================
+Simply run the latest version of LazyVR_Overlay.exe (found in the Builds Directory) before launching your VR game of choice.
+
 Delta Changes:
 =====================
 2.0.1
@@ -25,14 +29,6 @@ Fixed an issue where mask could not be changed when in a game.
 - added ability to change mask color and opacity
 - settings now save (color saving isn't working at the moment).
 
-USAGE
-=====================
-
-Simply run LazyVR_Overlay.exe before launching your VR game of choice.
-
-SUPPORT & DISCUSSION
-=====================
-Find us on https://reddit.com/r/LazyVR
 
 ---------------------
 DISCLAIMER
