@@ -1,5 +1,5 @@
-LazyVR Overlay Alpha 2.0.1
-==========================
+Lazy Overlay
+============
 
 
 This software is for SteamVR and overlays various masks in front of each eye for various vision experiments.
@@ -13,7 +13,7 @@ It is intended to be useful in exploring vision conditions such as Amblyopia, ak
 
 USAGE
 =====================
-Simply run the latest version of LazyVR_Overlay.exe (found in the Builds Directory) before launching your VR game of choice.
+Simply run the latest version of Lazy_Overlay.exe (found in the Builds Directory) before launching your VR game of choice.
 
 Delta Changes:
 =====================
