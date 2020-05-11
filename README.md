@@ -9,7 +9,7 @@ It is intended to be useful in exploring vision conditions such as Amblyopia, ak
 ![Slats view](/Screenshots/slats.PNG?raw=true "Slats view")
 ![User Interface](/Screenshots/ui.PNG?raw=true "User Interface")
 
-[Talk to the devs on discord](https://discord.gg/esCMDu)
+[Talk to the devs on discord](https://discord.gg/nVPGtny)
 
 USAGE
 =====================
